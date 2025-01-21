@@ -13,7 +13,7 @@ The goal of this project is to test TimesFM's accuracy on electricity consumptio
 >
 > If you'd be interested in the code, please take a look at `notebook.ipynb` in this repository.
 
-For a quick review of the results, below is a summary of the forecasting scheme and monthly mean absolute percentage error (MAPE) barplot produced by the model:
+For a quick review of the results, below is a summary of the forecasting scheme and a barplot of monthly mean absolute percentage error (MAPE) values comparing the actual electricity consumption vs the model's forecasts:
 
 Data
 - electricity consumption in Finland in MWh
