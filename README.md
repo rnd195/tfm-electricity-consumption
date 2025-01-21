@@ -15,16 +15,18 @@ The goal of this project is to test TimesFM's accuracy on electricity consumptio
 
 For a quick review of the results, below is a summary of the forecasting scheme and a barplot of monthly mean absolute percentage error (MAPE) values comparing the actual electricity consumption vs the model's forecasts:
 
-Data
+*Data*
+
 - electricity consumption in Finland in MWh
 - hourly frequency (resampled from 15-min by averaging)
 - start 2024-01-01 00:00, end 2024-12-31 23:00 (excluding some missing values)
 
-Forecasting scheme
+*Forecasting scheme*
+
 - up to 24 hours ahead
 - start at 00:00, generate predictions up to 23:00 each day, and move to the next day
 
-Model
+*Model*
 - TimesFM 200M with default parameters
 
 ![image-20250121220652002](data/results.png)
