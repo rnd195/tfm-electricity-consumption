@@ -9,7 +9,7 @@ The goal of this project is to test TimesFM's accuracy on electricity consumptio
 # Results
 
 > [!IMPORTANT]
-> For a detailed write-up of the results, feel free to read the accompanying [blog post on my personal webpage](https://github.com/rnd195/) (TBD).
+> For a detailed write-up of the results, feel free to read the accompanying [blog post on my personal webpage](https://rnd195.github.io/posts/tfm-electricity-consumption/).
 >
 > If you'd be interested in the code, please take a look at `notebook.ipynb` in this repository.
 
